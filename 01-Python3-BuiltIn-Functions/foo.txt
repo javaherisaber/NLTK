@@ -1,0 +1,2 @@
+Testing file open built-in method in python
+here we go !!
