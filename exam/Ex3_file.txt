@@ -1,0 +1,6 @@
+hello this file has been created for testing lexical method in the exam 3 question.
+hello use this file to test your method.
+question 3 is the file.
+here is a test file your going to use.
+lexical method is a good method.
+testing line for extend lexical words.
